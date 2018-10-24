@@ -1,6 +1,7 @@
 ## Welcome to dennymarcel's Page!
 
 ![Denny!](https://avatars3.githubusercontent.com/u/12802916?s=150)
+
 (in case you were wondering, that's me!)
 
 Math enthusiast with some informal expertise in coding. I am passionate with developing programmatic solutions willing to optimize and automate those sorts of processes humans are terribly designed for. The more that part of life is automated, the more time we have for those things humans excel. 
