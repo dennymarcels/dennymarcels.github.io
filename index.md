@@ -6,7 +6,7 @@
 
 Math enthusiast with some informal experience in coding. I am passionate with developing programmatic solutions willing to optimize and automate those sorts of processes humans are terribly designed for. The more that part of life is taken care of, the more time we have for those things humans excel. 
 
-Though I am officialy a beginner in the field, my boat is confidently sailing toward becoming a data scientist of sorts. I am currently committed to getting some formal education in the field; for an updated history on how this is going, please visit [my LinkedIn page](https://www.linkedin.com/in/denny-seccon-7168355a/). I love working in R, but am getting acquainted with Python as well.
+Though I am officialy a beginner in the field, my boat is confidently sailing towards becoming a data scientist of sorts. I am currently committed to getting some formal education in the field; for an updated history on how this is going, please visit [my LinkedIn page](https://www.linkedin.com/in/denny-seccon-7168355a/). I love working in R, but am getting acquainted with Python as well.
 
 My intention with this humble page is to showcase the personal projects I managed to bring to life!
 
