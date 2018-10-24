@@ -2,7 +2,7 @@
 
 ![Denny!](https://avatars3.githubusercontent.com/u/12802916?s=150)
 
-(in case you were wondering, that's me! Denny Marcel!)
+(In case you were wondering, that's me! Denny Marcel!)
 
 Math enthusiast with some informal experience in coding. I am passionate with developing programmatic solutions willing to optimize and automate those sorts of processes humans are terribly designed for. The more that part of life is taken care of, the more time we have for those things humans excel. 
 
