@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to dennymarcel's Page!
 
-You can use the [editor on GitHub](https://github.com/dennymarcels/dennymarcels.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Denny!](https://avatars3.githubusercontent.com/u/12802916?s=150)
+(in case you were wondering, that's me!)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Math enthusiast with some informal expertise in coding. I am passionate with developing programmatic solutions willing to optimize and automate those sorts of processes humans are terribly designed for. The more that part of life is automated, the more time we have for those things humans excel. 
 
-### Markdown
+I am currently committed to getting some formal education in the field; for an updated history on how this is going, please visit [my LinkedIn page](https://www.linkedin.com/in/denny-seccon-7168355a/). I love working in R, but am getting acquainted with Python as well.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My intention with this humble page is to showcase the personal projects I managed to bring to life!
 
-```markdown
-Syntax highlighted code block
+### [Next Word Predictor](https://dennymarcels.github.io/NextWordPredictor/)
+Code to implement a Shiny app consisting of "next word" predictor, based on a text collection consisting of blogs, news and twitter texts.
 
-# Header 1
-## Header 2
-### Header 3
+Created on Oct 19, 2018. Last relevant update on Oct 19, 2018.
 
-- Bulleted
-- List
+### [Forex Analysis Shiny](https://dennymarcels.github.io/ForexAnalysisShiny/)
+Code to implement a Shiny app that runs a summary of one or more MyFxBook EA accounts, enabling risk management decisions.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dennymarcels/dennymarcels.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Created on Sep 5, 2018. Last relevant update on Oct 23, 2018.
