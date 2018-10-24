@@ -11,7 +11,7 @@ Though I am officialy a beginner in the field, my boat is confidently sailing to
 My intention with this humble page is to showcase the personal projects I managed to bring to life!
 
 ### [Next Word Predictor](https://dennymarcels.github.io/NextWordPredictor/)
-Code to implement a Shiny app consisting of "next word" predictor, based on a text collection consisting of blogs, news and twitter texts.
+Code to implement a Shiny app consisting of a "next word" predictor, based on a text collection consisting of blogs, news and twitter texts. This project was originally part of the [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science) course, developed by the Johns Hopkins University and hosted at Coursera.
 
 *Created on Oct 19, 2018. Last relevant update on Oct 19, 2018.*
 
