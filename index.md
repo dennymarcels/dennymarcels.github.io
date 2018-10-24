@@ -13,9 +13,9 @@ My intention with this humble page is to showcase the personal projects I manage
 ### [Next Word Predictor](https://dennymarcels.github.io/NextWordPredictor/)
 Code to implement a Shiny app consisting of "next word" predictor, based on a text collection consisting of blogs, news and twitter texts.
 
-Created on Oct 19, 2018. Last relevant update on Oct 19, 2018.
+*Created on Oct 19, 2018. Last relevant update on Oct 19, 2018.*
 
 ### [Forex Analysis Shiny](https://dennymarcels.github.io/ForexAnalysisShiny/)
 Code to implement a Shiny app that runs a summary of one or more MyFxBook EA accounts, enabling risk management decisions.
 
-Created on Sep 5, 2018. Last relevant update on Oct 23, 2018.
+*Created on Sep 5, 2018. Last relevant update on Oct 23, 2018.*
