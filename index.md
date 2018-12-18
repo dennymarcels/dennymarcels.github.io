@@ -10,6 +10,11 @@ Though I am officialy a beginner in the field, my boat is confidently sailing to
 
 My intention with this humble page is to showcase the personal projects I managed to bring to life!
 
+### [Flower Species Predictor](https://dennymarcels.github.io/FlowerSpeciesPredictor/)
+Code to use a Deep Learning approach to predict flower species from images. The project concerns downloading a pre-trained network, defining and training a classifier on a dataset containing 102 flower species and more than 6,500 images, saving the best-performing model, and using this model to make predictions on new images. This project was originally part of the [PyTorch Scholarship Challenge Nanodegree Program](https://br.udacity.com/facebook-pytorch-scholarship), developed by Udacity and Facebook and hosted at Udacity.
+
+*Created on Dec 18, 2018. Last relevant update on Dec 18, 2018.*
+
 ### [Next Word Predictor](https://dennymarcels.github.io/NextWordPredictor/)
 Code to implement a Shiny app consisting of a "next word" predictor, based on a text collection consisting of blogs, news and twitter texts. This project was originally part of the [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science) course, developed by the Johns Hopkins University and hosted at Coursera.
 
