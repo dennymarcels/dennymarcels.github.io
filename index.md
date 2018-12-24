@@ -23,7 +23,7 @@ Code to implement a Shiny app consisting of a "next word" predictor, based on a 
 ### [Forex Analysis Shiny](https://dennymarcels.github.io/ForexAnalysisShiny/)
 Code to implement a Shiny app that runs a summary of one or more MyFxBook accounts, enabling risk management decisions.
 
-*Created on Sep 5, 2018. Last relevant update on Oct 23, 2018.*
+*Created on Sep 5, 2018. Last relevant update on Dec 24, 2018.*
 
 ### [Mangrove Microbiome Project](https://dennymarcels.github.io/MangroveMicrobiomeProject/)
 Code to investigate taxonomic and functional properties of the microbiome of samples of mangrove sediment, by means of next-generation DNA sequencing technology.
