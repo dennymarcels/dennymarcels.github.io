@@ -10,6 +10,11 @@ Though I am officialy a beginner in the field, my boat is confidently sailing to
 
 My intention with this humble page is to showcase the personal projects I managed to bring to life!
 
+### [Knowledge Discovery and Data Mining Cup 2009](https://dennymarcels.github.io/KDDCup2009/)
+IPython Notebook having the code for my implementation of the [2009 Knowledge Discovery and Data Mining challenge](https://www.kdd.org/kdd-cup/view/kdd-cup-2009). The challenge comprised implementing a model to classify three behaviors of the clientele, based on a large dataset containing 50,000 instances of 230 variables, of which 190 were numerical and 40 were categorical. The output classes were unbalanced.
+
+*Created on Dec 27, 2018. Last relevant update on Dec 27, 2018.*
+
 ### [Flower Species Predictor](https://dennymarcels.github.io/FlowerSpeciesPredictor/)
 Code to use a Deep Learning approach to predict flower species from images. The project concerns downloading a pre-trained network, defining and training a classifier on a dataset containing 102 flower species and more than 6,500 images, saving the best-performing model, and using this model to make predictions on new images. This project was originally part of the [PyTorch Scholarship Challenge Nanodegree Program](https://br.udacity.com/facebook-pytorch-scholarship), developed by Udacity and Facebook and hosted at Udacity.
 
