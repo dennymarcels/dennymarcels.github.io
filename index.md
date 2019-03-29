@@ -10,6 +10,11 @@ Though I am officialy a beginner in the field, my boat is confidently sailing to
 
 My intention with this humble page is to showcase the personal projects I managed to bring to life!
 
+### [Human Activity Recognition Using Smartphone](https://dennymarcels.github.io/HumanActivityRecognition/)
+IPython Notebook containing the code for my implementation of the [Human Activity Recognition Using Smartphones Data Set](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones). The dataset contains features derived from movement measured by the accelerometer and gyroscope of a smartphone while volunteers were performing six activities. There are 10299 instances and 561 features for this classification problem. I took this opportunity to explore the Scikit-Learn documentation, first on the supervised learning methods, then on the best-performing model for the tuning process.
+
+*Created on March 29, 2019. Last relevant update on March 29, 2019.*
+
 ### [Black Friday Hackaton](https://dennymarcels.github.io/KDDCup2009/)
 IPython Notebook containing the code for my implementation of the [Black Friday Hackaton by Analytics Vidhya](https://datahack.analyticsvidhya.com/contest/black-friday/). The hackaton consisted of implementing a regression model to predict Purchase Amount from customer behavior and demografic information. I took this opportunity to delve a little deeper into the tuning process.
 
