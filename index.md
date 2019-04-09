@@ -10,18 +10,23 @@ Though I am officialy a beginner in the field, my boat is confidently sailing to
 
 My intention with this humble page is to showcase the personal projects I managed to bring to life!
 
+### [NYC Taxi Fare Prediction](https://dennymarcels.github.io/NYCTaxiFarePrediction/)
+IPython Notebook containing code for my implementation of the [NYC Taxi Fare Prediction challenge from Kaggle](kaggle.com/c/new-york-city-taxi-fare-prediction). This dataset contains loooots of instances for taxi rides, along with features depicting time, pickup/dropoff coordinates and number of passengers. I spent most of my energy on data exploration, data cleaning and feature engineering. It was one of the most fun datasets I worked with this far.
+
+*Created on April 9, 2019. Last relevant update on April 9, 2019.*
+
 ### [Human Activity Recognition Using Smartphone](https://dennymarcels.github.io/HumanActivityRecognition/)
-IPython Notebook containing the code for my implementation of the [Human Activity Recognition Using Smartphones Data Set](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones). The dataset contains features derived from movement measured by the accelerometer and gyroscope of a smartphone while volunteers were performing six activities. There are 10299 instances and 561 features for this classification problem. I took this opportunity to explore the Scikit-Learn documentation, first on the supervised learning methods, then on the best-performing model for the tuning process.
+IPython Notebook containing code for my implementation of the [Human Activity Recognition Using Smartphones Data Set](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones). The dataset contains features derived from movement measured by the accelerometer and gyroscope of a smartphone while volunteers were performing six activities. There are 10299 instances and 561 features for this classification problem. I took this opportunity to explore the Scikit-Learn documentation, first on the supervised learning methods, then on the best-performing model for the tuning process.
 
 *Created on March 29, 2019. Last relevant update on March 29, 2019.*
 
 ### [Black Friday Hackaton](https://dennymarcels.github.io/KDDCup2009/)
-IPython Notebook containing the code for my implementation of the [Black Friday Hackaton by Analytics Vidhya](https://datahack.analyticsvidhya.com/contest/black-friday/). The hackaton consisted of implementing a regression model to predict Purchase Amount from customer behavior and demografic information. I took this opportunity to delve a little deeper into the tuning process.
+IPython Notebook containing code for my implementation of the [Black Friday Hackaton by Analytics Vidhya](https://datahack.analyticsvidhya.com/contest/black-friday/). The hackaton consisted of implementing a regression model to predict Purchase Amount from customer behavior and demografic information. I took this opportunity to delve a little deeper into the tuning process.
 
 *Created on March 11, 2019. Last relevant update on March 11, 2019.*
 
 ### [Knowledge Discovery and Data Mining Cup 2009](https://dennymarcels.github.io/KDDCup2009/)
-IPython Notebook having the code for my implementation of the [2009 Knowledge Discovery and Data Mining challenge](https://www.kdd.org/kdd-cup/view/kdd-cup-2009). The challenge comprised implementing a model to classify three behaviors of the clientele, based on a large dataset containing 50,000 instances of 230 variables, of which 190 were numerical and 40 were categorical. The output classes were unbalanced.
+IPython Notebook having code for my implementation of the [2009 Knowledge Discovery and Data Mining challenge](https://www.kdd.org/kdd-cup/view/kdd-cup-2009). The challenge comprised implementing a model to classify three behaviors of the clientele, based on a large dataset containing 50,000 instances of 230 variables, of which 190 were numerical and 40 were categorical. The output classes were unbalanced.
 
 *Created on Dec 27, 2018. Last relevant update on Dec 27, 2018.*
 
