@@ -20,7 +20,7 @@ IPython Notebook containing code for my implementation of the [Human Activity Re
 
 *Created on March 29, 2019. Last relevant update on March 29, 2019.*
 
-### [Black Friday Hackaton](https://dennymarcels.github.io/KDDCup2009/)
+### [Black Friday Hackaton](https://dennymarcels.github.io/BlackFridayHackaton/)
 IPython Notebook containing code for my implementation of the [Black Friday Hackaton by Analytics Vidhya](https://datahack.analyticsvidhya.com/contest/black-friday/). The hackaton consisted of implementing a regression model to predict Purchase Amount from customer behavior and demografic information. I took this opportunity to delve a little deeper into the tuning process.
 
 *Created on March 11, 2019. Last relevant update on March 11, 2019.*
