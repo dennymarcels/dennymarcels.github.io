@@ -48,4 +48,4 @@ Code to implement a Shiny app that runs a summary of one or more MyFxBook accoun
 ### [Mangrove Microbiome Project](https://dennymarcels.github.io/MangroveMicrobiomeProject/)
 Code to investigate taxonomic and functional properties of the microbiome of samples of mangrove sediment, by means of next-generation DNA sequencing technology.
 
-*Created on Sep 4, 2018. Last relevant update on Sep 4, 2018.*
+*Created on Sep 4, 2018. Last relevant update on May 20, 2019.*
