@@ -2,13 +2,18 @@
 
 ![Denny!](https://avatars3.githubusercontent.com/u/12802916?s=150)
 
-(In case you were wondering, that's me! Denny Marcel!)
+(In case you were wondering, that's me!)
 
-Math enthusiast with some informal experience in coding. I am passionate with developing programmatic solutions willing to optimize and automate those sorts of processes humans are terribly designed for. The more that part of life is taken care of, the more time we have for those things humans excel. 
+Math enthusiast with informal experience in coding. I am passionate with developing programmatic solutions willing to optimize and automate those sorts of processes humans are terribly designed for. The more that part of life is taken care of, the more time we have for those things humans excel. 
 
 Though I am officialy a beginner in the field, my boat is confidently sailing towards becoming a data scientist of sorts. I am currently committed to getting some formal education in the field; for an updated history on how this is going, please visit [my LinkedIn page](https://www.linkedin.com/in/denny-seccon-7168355a/). I love working in R, but am getting acquainted with Python as well.
 
 My intention with this humble page is to showcase the personal projects I managed to bring to life!
+
+### [FIFA 2019 Complete Player Dataset](https://github.com/dennymarcels/FIFA2019CompletePlayerDataset)
+IPython Notebook containing code for the exploration of the [FIFA 2019 Complete Player Dataset from Kaggle](https://www.kaggle.com/karangadiya/fifa19). This dataset contains several attributes for all 18k+ FIFA soccer players. I used the technical features, and some physical features of the athletes, to group them in technical profiles. Then I investigated how these profiles were related to the players's actual positions in the field.
+
+*Created on May 30, 2019. Last relevant update on May 30, 2019.*
 
 ### [NYC Taxi Fare Prediction](https://dennymarcels.github.io/NYCTaxiFarePrediction/)
 IPython Notebook containing code for my implementation of the [NYC Taxi Fare Prediction challenge from Kaggle](kaggle.com/c/new-york-city-taxi-fare-prediction). This dataset contains loooots of instances for taxi rides, along with features depicting time, pickup/dropoff coordinates and number of passengers. I spent most of my energy on data exploration, data cleaning and feature engineering. It was one of the most fun datasets I worked with this far.
