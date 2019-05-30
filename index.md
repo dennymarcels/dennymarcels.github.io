@@ -10,7 +10,7 @@ Though I am officialy a beginner in the field, my boat is confidently sailing to
 
 My intention with this humble page is to showcase the personal projects I managed to bring to life!
 
-### [FIFA 2019 Complete Player Dataset](https://github.com/dennymarcels/FIFA2019CompletePlayerDataset)
+### [FIFA 2019 Complete Player Dataset](https://dennymarcels.github.io/FIFA2019CompletePlayerDataset/)
 IPython Notebook containing code for the exploration of the [FIFA 2019 Complete Player Dataset from Kaggle](https://www.kaggle.com/karangadiya/fifa19). This dataset contains several attributes for all 18k+ FIFA soccer players. I used the technical features, and some physical features of the athletes, to group them in technical profiles. Then I investigated how these profiles were related to the players's actual positions in the field.
 
 *Created on May 30, 2019. Last relevant update on May 30, 2019.*
