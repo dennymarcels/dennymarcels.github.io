@@ -10,6 +10,11 @@ Though I am officialy a beginner in the field, my boat is confidently sailing to
 
 My intention with this humble page is to showcase the personal projects I managed to bring to life!
 
+### [Northeastern SMILE Lab - Recognizing Faces in the Wild](https://dennymarcels.github.io/AreTheseTwoPeopleRelated/)
+IPython Notebook containing code for my approach to the [Can you determine if two individuals are related?](https://www.kaggle.com/c/recognizing-faces-in-the-wild) Kaggle challenge. The dataset contains face photos of individuals grouped by family. The objective is to determine from the photos if two individuals are genetically related.
+
+*Created on July 31, 2019. Last relevant update on July 31, 2019.*
+
 ### [FIFA 2019 Complete Player Dataset](https://dennymarcels.github.io/FIFA2019CompletePlayerDataset/)
 IPython Notebook containing code for the exploration of the [FIFA 2019 Complete Player Dataset from Kaggle](https://www.kaggle.com/karangadiya/fifa19). This dataset contains several attributes for all 18k+ FIFA soccer players. I used the technical features, and some physical features of the athletes, to group them in technical profiles. Then I investigated how these profiles were related to the players's actual positions in the field.
 
