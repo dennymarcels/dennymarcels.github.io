@@ -10,6 +10,11 @@ Though I am officialy a beginner in the field, my boat is confidently sailing to
 
 My intention with this humble page is to showcase the personal projects I managed to bring to life!
 
+### [Instacart Market Basket Analysis](https://dennymarcels.github.io/InstacartBasketAnalysis/)
+IPython Notebook containing my implementation of the apriori algorithm to determine association rules based on the dataset included in a [Kaggle competition that goes by the same name](https://www.kaggle.com/c/instacart-market-basket-analysis). The data consists of over 3 million orders in a grocery store, indexed by user. The orders contain product information and timestamp.
+
+*Created on May 27, 2020. Last relevant update on May 27, 2020.*
+
 ### [Northeastern SMILE Lab - Recognizing Faces in the Wild](https://dennymarcels.github.io/AreTheseTwoPeopleRelated/)
 IPython Notebook containing code for my approach to the [Can you determine if two individuals are related?](https://www.kaggle.com/c/recognizing-faces-in-the-wild) Kaggle challenge. The dataset contains face photos of individuals grouped by family. The objective is to determine from the photos if two individuals are genetically related.
 
