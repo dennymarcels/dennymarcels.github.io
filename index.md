@@ -10,6 +10,11 @@ Though I am officialy a beginner in the field, my boat is confidently sailing to
 
 My intention with this humble page is to showcase the personal projects I managed to bring to life!
 
+### Clinical diagnosis
+This project is confidential. I am relying on multidimensional data from clinical exams to develop a model capable of delivering fast, easy and reliable diagnostics for a current public health threat. 🤐
+
+*Created on September, 2020. Last relevant update on January, 2021.*
+
 ### News classification (NLP Project)
 This implementation is confidential. In this project, I relied on [BERT](https://github.com/google-research/bert) [Portuguese](https://github.com/neuralmind-ai/portuguese-bert) to train a model to classify news articles into one of ten possible categories. The dataset was built from scratch using webscraping library [Beautiful Soup](https://pypi.org/project/beautifulsoup4/) (I still wonder where that name came from). The trained model was containerized using [Docker](https://www.docker.com/) and turned into a web tool using [Google Kubernetes Engine](https://cloud.google.com/kubernetes-engine). ~A prototype can be check [here](http://34.70.152.92:5000/).~ (offline due to costs). A txt file containing one news text in Portuguese must be supplied. I suggest getting a news article from [El País Brasil](https://brasil.elpais.com/) since the categories are expected to match.
 
