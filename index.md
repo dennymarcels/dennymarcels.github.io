@@ -11,7 +11,7 @@ Though I am officialy a beginner in the field, my boat is confidently sailing to
 My intention with this humble page is to showcase the personal projects I managed to bring to life!
 
 ### Clinical diagnosis
-This project is confidential. I am relying on multidimensional data from clinical exams to develop a model capable of delivering fast, easy and reliable diagnostics for a COVID-19. General information at the [PoLiVirUS website](https://www.polivirus.com/).
+This implementation is confidential. I am relying on multidimensional data from clinical exams to develop a model capable of delivering fast, easy and reliable diagnostics for a COVID-19. General information at the [PoLiVirUS website](https://www.polivirus.com/).
 
 *Created on September, 2020. Last relevant update on January, 2021.*
 
