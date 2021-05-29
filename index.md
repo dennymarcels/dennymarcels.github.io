@@ -6,9 +6,17 @@
 
 Math enthusiast with informal experience in coding. I am passionate with developing programmatic solutions willing to optimize and automate those sorts of processes humans are terribly designed for. The more that part of life is taken care of, the more time we have for those things humans excel. 
 
-Though I am officialy a beginner in the field, my boat is confidently sailing towards becoming a data scientist of sorts. I am currently committed to getting some formal education in the field; for an updated history on how this is going, please visit [my LinkedIn page](https://www.linkedin.com/in/denny-seccon-7168355a/). I love working in R, but am getting acquainted with Python as well.
+Here I showcase the personal projects I managed to bring to life!
 
-My intention with this humble page is to showcase the personal projects I managed to bring to life!
+### [Volume adjustment simulator using hands with live video capture](https://github.com/dennymarcels/simulate_volume_control_with_hands)
+Web app that captures the index and thumb positions to simulate hand control of volume with video bar feedback. This implementation leverages CV2, mediapipe and Flask.
+
+*Created on May, 2021. Last relevant update on May, 2021.*
+
+### [Instantaneous translator - Portuguese to Esperanto (!)](https://github.com/dennymarcels/translator_pt_eo)
+Web app that translates from Portuguese to Esperando instantly after each keystroke. This implementation leverages a pre-trained transformers-based model available via the transformers library, and Flask.
+
+*Created on May, 2021. Last relevant update on May, 2021.*
 
 ### Clinical diagnosis
 This implementation is confidential. I am relying on multidimensional data from clinical exams to develop a model capable of delivering fast, easy and reliable diagnostics for COVID-19. General information at the [PoLiVirUS website](https://www.polivirus.com/).
